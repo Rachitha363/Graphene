@@ -1,11 +1,10 @@
 📋 Internship Summary – GrapheneAI
 Welcome to the official documentation of the work I completed during my internship at **GrapheneAI** as a **Database Intern**. This README outlines the tasks, tools, technologies, and skills I developed while working on real-time enterprise data workflows, system automation, and database management.
 
-👩‍💻 Role
+👩‍💻
 Position: Database Intern  
 Organization: Graphene Health Tech Private Limited 
 Duration: 27/01/2025 – 31/05/2025 
-Team: Data Engineering / Automation & Analytics
 
 🧠 Key Responsibilities
 - ✅ Designed and built an automated data upload system for SQL Server using Python and `pyodbc`.
